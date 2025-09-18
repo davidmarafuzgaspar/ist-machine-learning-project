@@ -9,7 +9,7 @@ y_test = np.random.rand(300)
 # Make the predictions
 y_pred = predict(X_test)
 
-# validate the size of y_pred
+# Validate the size of y_pred
 if y_pred.shape != y_test.shape:
     raise ValueError(f"Shape mismatch: {y_pred.shape} vs {y_test.shape}")  
 print("Prediction format is valid.")

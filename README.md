@@ -1,3 +1,2 @@
 # ist-machine-learning-project
-
-ML Project
+Panga de ML

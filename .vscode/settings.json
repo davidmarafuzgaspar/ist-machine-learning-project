@@ -1,3 +1,8 @@
 {
+<<<<<<< Updated upstream
     "ros.distro": "humble"
 }
+=======
+  "ros.distro": "humble"
+}
+>>>>>>> Stashed changes

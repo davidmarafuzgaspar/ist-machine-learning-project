@@ -1,6 +1,9 @@
 # Part 1 - Machine Learning Model Development
 
-This directory contains Part 1 of an Instituto Superior Técnico machine learning project. This part focuses on developing and evaluating various machine learning models for a regression task.
+This directory contains Part 1 of the Instituto Superior Técnico Machine Learning course project.
+# Authors
+- David João Marafuz Gaspar - 106541
+- Pedro Gaspar Mónico - 106626 
 
 ## Project Structure
 

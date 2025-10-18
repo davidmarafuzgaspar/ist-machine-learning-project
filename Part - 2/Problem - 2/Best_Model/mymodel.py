@@ -69,7 +69,4 @@ def predict(Xtest):
     # Convert to array in the same order as unique patient IDs
     y_pred_patient = np.array([final_predictions[pid] for pid in patient_ids])
     
-    print(f"Patient predictions: {final_predictions}")
-    print(f"Final y_pred shape: {y_pred_patient.shape}")
-    
     return y_pred_patient

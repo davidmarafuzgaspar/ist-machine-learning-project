@@ -124,5 +124,4 @@ Each part contains a `Best_Model/` directory with:
 
 ---
 
-*This is a machine learning course project for Instituto Superior Técnico.*
-
+*This is a IST Machine Learning course assignment for the academic year 2025–2026.*

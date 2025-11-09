@@ -26,7 +26,7 @@ Contains the training datasets:
 - **`X_train.npy`** - Training features (numpy array)
 - **`Y_train.npy`** - Training labels (numpy array)
 
-### 🏆 Deliverable/
+### 🏆 Best_Model/
 **This folder contains the final deliverables for the lab assignment:**
 
 - **`mymodel.py`** - **Main prediction function** containing the `predict()` function as required by the lab
@@ -84,9 +84,9 @@ The development process followed a systematic approach:
 
 - The champion model automatically handles the removal of the second sensor during prediction
 - All development work is documented in the Jupyter notebooks in the `Development/` folder
-- The final deliverable code is ready for submission in the `Deliverable/` folder
+- The final deliverable code is ready for submission in the `Best_Model/` folder
 - The `validate_test_code.py` script can be used to verify the prediction function works correctly
 
 ---
 
-*This is Part 1 of an IST machine learning course assignment.*
+*This is Part 1 of the IST Machine Learning course assignment for the academic year 2025–2026.*

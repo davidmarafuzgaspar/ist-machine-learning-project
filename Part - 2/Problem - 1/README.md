@@ -31,7 +31,7 @@ Contains validation results and feature selections:
 - **`best_features_mlp.npy`** - Best features selected for MLP model
 - **`best_features_svm.npy`** - Best features selected for SVM model
 
-### 🏆 Deliverable/
+### 🏆 Best_Model/
 **This folder contains the final deliverables for the lab assignment:**
 
 - **`mymodel.py`** - **Main prediction function** containing the `predict()` function as required by the lab
@@ -90,10 +90,10 @@ The development process followed a systematic approach:
 
 - The champion model uses optimized feature selection for optimal performance
 - All development work is documented in the Jupyter notebooks in the `Development/` folder
-- The final deliverable code is ready for submission in the `Deliverable/` folder
+- The final deliverable code is ready for submission in the `Best_Model/` folder
 - The `validate_test_code.py` script can be used to verify the prediction function works correctly
 - Feature selection results are stored in the `Validation/` folder for reference
 
 ---
 
-*This is Part 2 - Problem 1 of an IST machine learning course assignment.*
+*This is Part 2 - Problem 1 of the IST Machine Learning course assignment for the academic year 2025–2026.*

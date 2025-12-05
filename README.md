@@ -1,6 +1,6 @@
 # IST Machine Learning Project
 
-This repository contains the complete machine learning project for the Instituto Superior Técnico Machine Learning course.
+This repository contains the complete project for the Instituto Superior Técnico Machine Learning course.
 
 ## Authors
 - David João Marafuz Gaspar - 106541

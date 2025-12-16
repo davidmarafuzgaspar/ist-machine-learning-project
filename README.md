@@ -33,7 +33,7 @@ ist-machine-learning-project/
 │       ├── Development/        # Development notebooks
 │       └── README.md           # Problem 2 documentation
 │
-├── Project.pdf                 # Project specification
+├── Assignment.pdf              # Project specification
 └── Report.pdf                  # Project report
 ```
 

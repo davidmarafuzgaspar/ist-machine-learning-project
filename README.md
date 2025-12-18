@@ -3,7 +3,7 @@
 This repository contains the complete project for the Instituto Superior Técnico Machine Learning course.
 
 ## Authors
-- David João Marafuz Gaspar - 106541
+- David Marafuz Gaspar - 106541
 - Pedro Gaspar Mónico - 106626
 
 ## Project Overview

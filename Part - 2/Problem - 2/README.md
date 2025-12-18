@@ -3,7 +3,7 @@
 This directory contains Part 2 - Problem 2 of the Instituto Superior Técnico Machine Learning course project.
 
 # Authors
-- David João Marafuz Gaspar - 106541
+- David Marafuz Gaspar - 106541
 - Pedro Gaspar Mónico - 106626 
 
 ## Project Structure
